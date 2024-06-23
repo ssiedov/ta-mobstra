@@ -1,0 +1,5190 @@
+{
+  "data": [
+    {
+      "group_by": {
+        "date": "2024-06-10",
+        "partner": "kate-web@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "5",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:04:53",
+        "avg_call_duration": "00:00:59",
+        "paid_duration": "00:06:24",
+        "avg_paid_duration": "00:01:17"
+      },
+      "finance": {
+        "revenue": "5,13",
+        "payout": "10,77",
+        "profit": "-5,64",
+        "roi": "-53%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-10",
+        "partner": "testotraff@mobstra.com",
+        "offer": "Kate-test"
+      },
+      "traffic": {
+        "cnt_click": "3",
+        "cnt_cta": "2",
+        "cta_click_ratio": "1:2"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:1",
+        "call_click_ratio": "1:2"
+      },
+      "duration": {
+        "call_duration": "00:03:03",
+        "avg_call_duration": "00:01:32",
+        "paid_duration": "00:03:03",
+        "avg_paid_duration": "00:01:32"
+      },
+      "finance": {
+        "revenue": "2,44",
+        "payout": "1,47",
+        "profit": "0,97",
+        "roi": "65%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-10",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:15",
+        "avg_call_duration": "00:00:38",
+        "paid_duration": "00:00:31",
+        "avg_paid_duration": "00:00:16"
+      },
+      "finance": {
+        "revenue": "7,75",
+        "payout": "1,00",
+        "profit": "6,75",
+        "roi": "675%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-10",
+        "partner": "testotraff@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:03:08",
+        "avg_call_duration": "00:01:34",
+        "paid_duration": "00:03:08",
+        "avg_paid_duration": "00:01:34"
+      },
+      "finance": {
+        "revenue": "2,50",
+        "payout": "1,57",
+        "profit": "0,93",
+        "roi": "59%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-07",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test for record logs carusel"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-07",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "9",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:39",
+        "avg_call_duration": "00:00:11",
+        "paid_duration": "00:01:39",
+        "avg_paid_duration": "00:00:11"
+      },
+      "finance": {
+        "revenue": "0,63",
+        "payout": "0,63",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-07",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "11",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:04:35",
+        "avg_call_duration": "00:00:25",
+        "paid_duration": "00:01:59",
+        "avg_paid_duration": "00:00:11"
+      },
+      "finance": {
+        "revenue": "29,75",
+        "payout": "1,57",
+        "profit": "28,18",
+        "roi": "1794%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-07",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:15",
+        "avg_call_duration": "00:00:08",
+        "paid_duration": "00:02:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "2,00",
+        "payout": "2,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-06",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "ustinov_work_call"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-05",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:22",
+        "avg_call_duration": "00:00:11",
+        "paid_duration": "00:02:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "2,00",
+        "payout": "2,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-04",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "ustinov_work_call"
+      },
+      "traffic": {
+        "cnt_click": "3",
+        "cnt_cta": "3",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-06-03",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test for record logs carusel"
+      },
+      "traffic": {
+        "cnt_click": "7",
+        "cnt_cta": "3",
+        "cta_click_ratio": "1:2"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-31",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:17",
+        "avg_call_duration": "00:00:09",
+        "paid_duration": "00:00:17",
+        "avg_paid_duration": "00:00:09"
+      },
+      "finance": {
+        "revenue": "0,11",
+        "payout": "0,11",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-31",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test for record logs carusel"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "3",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-31",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "1",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:07",
+        "avg_call_duration": "00:00:07",
+        "paid_duration": "00:01:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "1,00",
+        "payout": "1,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-30",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:29",
+        "avg_call_duration": "00:00:15",
+        "paid_duration": "00:00:29",
+        "avg_paid_duration": "00:00:15"
+      },
+      "finance": {
+        "revenue": "0,19",
+        "payout": "0,19",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-30",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:15",
+        "avg_call_duration": "00:00:08",
+        "paid_duration": "00:02:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "2,00",
+        "payout": "2,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-30",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test for record logs carusel"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "4",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-30",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "1",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:09",
+        "avg_call_duration": "00:00:09",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-29",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test for record logs carusel"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "3",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-28",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test for record logs carusel"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-28",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "56",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:08:37",
+        "avg_call_duration": "00:00:09",
+        "paid_duration": "00:08:37",
+        "avg_paid_duration": "00:00:09"
+      },
+      "finance": {
+        "revenue": "3,18",
+        "payout": "3,18",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-27",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:22",
+        "avg_call_duration": "00:00:11",
+        "paid_duration": "00:02:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "2,00",
+        "payout": "2,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-27",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "10",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:13",
+        "avg_call_duration": "00:00:07",
+        "paid_duration": "00:01:13",
+        "avg_paid_duration": "00:00:07"
+      },
+      "finance": {
+        "revenue": "0,43",
+        "payout": "0,43",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-26",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "3",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:15",
+        "avg_call_duration": "00:00:05",
+        "paid_duration": "00:00:15",
+        "avg_paid_duration": "00:00:05"
+      },
+      "finance": {
+        "revenue": "0,09",
+        "payout": "0,09",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-25",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "36",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:04:41",
+        "avg_call_duration": "00:00:08",
+        "paid_duration": "00:04:41",
+        "avg_paid_duration": "00:00:08"
+      },
+      "finance": {
+        "revenue": "1,71",
+        "payout": "1,71",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-24",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "12",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:14",
+        "avg_call_duration": "00:00:06",
+        "paid_duration": "00:01:14",
+        "avg_paid_duration": "00:00:06"
+      },
+      "finance": {
+        "revenue": "0,47",
+        "payout": "0,47",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-24",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "19",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:03:02",
+        "avg_call_duration": "00:00:10",
+        "paid_duration": "00:19:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "19,00",
+        "payout": "19,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-23",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "38",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:02:30",
+        "avg_call_duration": "00:00:04",
+        "paid_duration": "00:02:30",
+        "avg_paid_duration": "00:00:04"
+      },
+      "finance": {
+        "revenue": "0,99",
+        "payout": "0,99",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-23",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "10",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:07:16",
+        "avg_call_duration": "00:00:44",
+        "paid_duration": "00:14:00",
+        "avg_paid_duration": "00:01:24"
+      },
+      "finance": {
+        "revenue": "14,00",
+        "payout": "14,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-23",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test for record logs carusel"
+      },
+      "traffic": {
+        "cnt_click": "4",
+        "cnt_cta": "4",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-23",
+        "partner": "testotraff@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "1",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:56",
+        "avg_call_duration": "00:00:56",
+        "paid_duration": "00:01:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "0,80",
+        "payout": "0,00",
+        "profit": "0,80",
+        "roi": "-20%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-23",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "5",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:03:17",
+        "avg_call_duration": "00:00:39",
+        "paid_duration": "00:01:11",
+        "avg_paid_duration": "00:00:14"
+      },
+      "finance": {
+        "revenue": "17,75",
+        "payout": "1,18",
+        "profit": "16,57",
+        "roi": "1404%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-22",
+        "partner": "o.bezlyudko@abcmobile.com",
+        "offer": "CALL STAGE DONt DELETE"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-22",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:09",
+        "avg_call_duration": "00:00:05",
+        "paid_duration": "00:00:09",
+        "avg_paid_duration": "00:00:05"
+      },
+      "finance": {
+        "revenue": "0,06",
+        "payout": "0,06",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-22",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test for record logs carusel"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:2"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-22",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "1",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:03",
+        "avg_call_duration": "00:00:03",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-21",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:12",
+        "avg_call_duration": "00:00:36",
+        "paid_duration": "00:00:12",
+        "avg_paid_duration": "00:00:06"
+      },
+      "finance": {
+        "revenue": "3,00",
+        "payout": "0,20",
+        "profit": "2,80",
+        "roi": "1400%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-21",
+        "partner": "o.bezlyudko@abcmobile.com",
+        "offer": "CALL STAGE DONt DELETE"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-20",
+        "partner": "o.bezlyudko@abcmobile.com",
+        "offer": "CALL STAGE DONt DELETE"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-18",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "9",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:54",
+        "avg_call_duration": "00:00:06",
+        "paid_duration": "00:00:54",
+        "avg_paid_duration": "00:00:06"
+      },
+      "finance": {
+        "revenue": "0,36",
+        "payout": "0,36",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-16",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "8",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:29",
+        "avg_call_duration": "00:00:04",
+        "paid_duration": "00:00:29",
+        "avg_paid_duration": "00:00:04"
+      },
+      "finance": {
+        "revenue": "0,20",
+        "payout": "0,20",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-15",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "11",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:55",
+        "avg_call_duration": "00:00:05",
+        "paid_duration": "00:00:55",
+        "avg_paid_duration": "00:00:05"
+      },
+      "finance": {
+        "revenue": "0,36",
+        "payout": "0,36",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-11",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "5",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:14",
+        "avg_call_duration": "00:00:03",
+        "paid_duration": "00:00:14",
+        "avg_paid_duration": "00:00:03"
+      },
+      "finance": {
+        "revenue": "0,10",
+        "payout": "0,10",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-10",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "8",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:59",
+        "avg_call_duration": "00:00:07",
+        "paid_duration": "00:00:59",
+        "avg_paid_duration": "00:00:07"
+      },
+      "finance": {
+        "revenue": "0,38",
+        "payout": "0,38",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-09",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "19",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:55",
+        "avg_call_duration": "00:00:06",
+        "paid_duration": "00:01:55",
+        "avg_paid_duration": "00:00:06"
+      },
+      "finance": {
+        "revenue": "0,70",
+        "payout": "0,70",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-05-08",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "19",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:04:39",
+        "avg_call_duration": "00:00:15",
+        "paid_duration": "00:04:39",
+        "avg_paid_duration": "00:00:15"
+      },
+      "finance": {
+        "revenue": "1,79",
+        "payout": "1,79",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-29",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "29",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:05:39",
+        "avg_call_duration": "00:00:12",
+        "paid_duration": "00:05:39",
+        "avg_paid_duration": "00:00:12"
+      },
+      "finance": {
+        "revenue": "2,16",
+        "payout": "2,16",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-29",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "kostya test812"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-29",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "Kostya Call test"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-29",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "ustinov test postback carousel"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-26",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "ustinov test postback carousel"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-26",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "Kostya Call test"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-24",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "Kostya Call test"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-17",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "kostya test 2"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-17",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "kostya call test777"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-16",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "Kostya Call test"
+      },
+      "traffic": {
+        "cnt_click": "4",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-16",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "ustinov test postback carousel"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-16",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "kostya call test777"
+      },
+      "traffic": {
+        "cnt_click": "10",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-16",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "link from lawn 1"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-16",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "kostya call without clickID"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-16",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test logs"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-15",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "13",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:39",
+        "avg_call_duration": "00:00:08",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-15",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test logs"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-15",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "ustinov test postback carousel"
+      },
+      "traffic": {
+        "cnt_click": "11",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "11",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:1"
+      },
+      "duration": {
+        "call_duration": "00:01:32",
+        "avg_call_duration": "00:00:08",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-12",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "4",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:32",
+        "avg_call_duration": "00:00:08",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-12",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test logs"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-12",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "12",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-12",
+        "partner": "pshenyshniuk_webmaster2@gmail.com",
+        "offer": "test logs"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-11",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "test logs"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-11",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "5",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:5"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-10",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "16",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-09",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "3",
+        "cnt_cta": "3",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-09",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-08",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "85",
+        "cnt_cta": "7",
+        "cta_click_ratio": "1:12"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-08",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "7",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-08",
+        "partner": "pshenyshniuk_webmaster@gmail.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-05",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "9",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-04",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "4",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-04",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "67",
+        "cnt_cta": "4",
+        "cta_click_ratio": "1:17"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-04-03",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "9",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-29",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "12",
+        "cnt_cta": "2",
+        "cta_click_ratio": "1:6"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-28",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "11",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:03:04",
+        "avg_call_duration": "00:00:17",
+        "paid_duration": "00:00:41",
+        "avg_paid_duration": "00:00:04"
+      },
+      "finance": {
+        "revenue": "10,25",
+        "payout": "0,68",
+        "profit": "9,57",
+        "roi": "1407%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-27",
+        "partner": "testkateweb@gmail.com",
+        "offer": "CR kate test"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-27",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "30",
+        "cnt_cta": "8",
+        "cta_click_ratio": "1:4"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-26",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "29",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-25",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "70",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-22",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "105",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-21",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "82",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:82"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-20",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "15",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:15"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-19",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "111",
+        "cnt_cta": "2",
+        "cta_click_ratio": "1:56"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-18",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "16",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:16"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-15",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "47",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:47"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-14",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "173",
+        "cnt_cta": "15",
+        "cta_click_ratio": "1:12"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-14",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:11",
+        "avg_call_duration": "00:00:36",
+        "paid_duration": "00:01:11",
+        "avg_paid_duration": "00:00:36"
+      },
+      "finance": {
+        "revenue": "1,18",
+        "payout": "1,18",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-13",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "89",
+        "cnt_cta": "15",
+        "cta_click_ratio": "1:6"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-12",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "62",
+        "cnt_cta": "20",
+        "cta_click_ratio": "1:3"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-11",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "71",
+        "cnt_cta": "3",
+        "cta_click_ratio": "1:24"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-07",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "9",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-06",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "4",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-05",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "21",
+        "cnt_cta": "12",
+        "cta_click_ratio": "1:2"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-04",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "43",
+        "cnt_cta": "4",
+        "cta_click_ratio": "1:11"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-03-01",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "17",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:17"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-29",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "10",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:10"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-27",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "41",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:41"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-26",
+        "partner": "o.bezlyudko@abcmobile.com",
+        "offer": "CALL STAGE DONt DELETE"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-26",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "4",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-23",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "13",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-22",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "77",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:77"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-21",
+        "partner": "testkateweb@gmail.com",
+        "offer": "CR kate test"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-21",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "27",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-20",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "27",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:27"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-19",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "4",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-16",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "4",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:14",
+        "avg_call_duration": "00:00:19",
+        "paid_duration": "00:00:26",
+        "avg_paid_duration": "00:00:07"
+      },
+      "finance": {
+        "revenue": "0,43",
+        "payout": "1,00",
+        "profit": "-0,57",
+        "roi": "-57%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-15",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "57",
+        "cnt_cta": "28",
+        "cta_click_ratio": "1:2"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-14",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "29",
+        "cnt_cta": "11",
+        "cta_click_ratio": "1:3"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-14",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "15",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:02:12",
+        "avg_call_duration": "00:00:09",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-13",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "6",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:06",
+        "avg_call_duration": "00:00:11",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-13",
+        "partner": "o.bezlyudko@abcmobile.com",
+        "offer": "CALL STAGE DONt DELETE"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-13",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "190",
+        "cnt_cta": "4",
+        "cta_click_ratio": "1:48"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-12",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "221",
+        "cnt_cta": "6",
+        "cta_click_ratio": "1:37"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-11",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "69",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-10",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "23",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:23"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-09",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "53",
+        "cnt_cta": "12",
+        "cta_click_ratio": "1:4"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-08",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "7",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-07",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "48",
+        "cnt_cta": "6",
+        "cta_click_ratio": "1:8"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-07",
+        "partner": "testkateweb@gmail.com",
+        "offer": "google test kate"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-07",
+        "partner": "testkateweb@gmail.com",
+        "offer": "CR kate test"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-06",
+        "partner": "testkateweb@gmail.com",
+        "offer": "CR kate test"
+      },
+      "traffic": {
+        "cnt_click": "10",
+        "cnt_cta": "9",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "9",
+        "call_cta_ratio": "1:1",
+        "call_click_ratio": "1:1"
+      },
+      "duration": {
+        "call_duration": "00:04:27",
+        "avg_call_duration": "00:00:30",
+        "paid_duration": "00:10:03",
+        "avg_paid_duration": "00:01:07"
+      },
+      "finance": {
+        "revenue": "8,04",
+        "payout": "4,61",
+        "profit": "3,43",
+        "roi": "74%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-06",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "27",
+        "cnt_cta": "2",
+        "cta_click_ratio": "1:14"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-06",
+        "partner": "testkateweb@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "5",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "01:01:46",
+        "avg_call_duration": "00:12:21",
+        "paid_duration": "01:02:30",
+        "avg_paid_duration": "00:12:30"
+      },
+      "finance": {
+        "revenue": "50,00",
+        "payout": "31,25",
+        "profit": "18,75",
+        "roi": "60%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-06",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "12",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:57",
+        "avg_call_duration": "00:00:10",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-06",
+        "partner": "carousel@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:22",
+        "avg_call_duration": "00:00:11",
+        "paid_duration": "00:02:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "1,60",
+        "payout": "0,80",
+        "profit": "0,80",
+        "roi": "100%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-05",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "37",
+        "cnt_cta": "41",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-05",
+        "partner": "o.bezlyudko@abcmobile.com",
+        "offer": "CALL STAGE DONt DELETE"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-02-02",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "30",
+        "cnt_cta": "4",
+        "cta_click_ratio": "1:8"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-30",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "7",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-29",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "20",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-29",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "7",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:04",
+        "avg_call_duration": "00:00:09",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-26",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "3",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:28",
+        "avg_call_duration": "00:00:09",
+        "paid_duration": "00:03:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "45,00",
+        "payout": "3,00",
+        "profit": "42,00",
+        "roi": "1400%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-26",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "180",
+        "cnt_cta": "18",
+        "cta_click_ratio": "1:10"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-25",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "155",
+        "cnt_cta": "5",
+        "cta_click_ratio": "1:31"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-25",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "7",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:02:29",
+        "avg_call_duration": "00:00:21",
+        "paid_duration": "00:07:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "7,00",
+        "payout": "7,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-24",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "80",
+        "cnt_cta": "2",
+        "cta_click_ratio": "1:40"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-24",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "7",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:08",
+        "avg_call_duration": "00:00:10",
+        "paid_duration": "00:07:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "7,00",
+        "payout": "7,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-24",
+        "partner": "fb_test2@gg.gg",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "4",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-23",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:21",
+        "avg_call_duration": "00:00:11",
+        "paid_duration": "00:02:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "2,00",
+        "payout": "2,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-23",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "38",
+        "cnt_cta": "2",
+        "cta_click_ratio": "1:19"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-22",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "6",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:10",
+        "avg_call_duration": "00:00:12",
+        "paid_duration": "00:05:00",
+        "avg_paid_duration": "00:00:50"
+      },
+      "finance": {
+        "revenue": "5,00",
+        "payout": "5,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-22",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "98",
+        "cnt_cta": "6",
+        "cta_click_ratio": "1:16"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-21",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:00",
+        "avg_call_duration": "00:00:30",
+        "paid_duration": "00:02:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "2,00",
+        "payout": "2,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-19",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "221",
+        "cnt_cta": "10",
+        "cta_click_ratio": "1:22"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-19",
+        "partner": "testotraff@mobstra.com",
+        "offer": "CR kate test"
+      },
+      "traffic": {
+        "cnt_click": "2",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:2"
+      },
+      "conversions": {
+        "cnt_call": "1",
+        "call_cta_ratio": "1:1",
+        "call_click_ratio": "1:2"
+      },
+      "duration": {
+        "call_duration": "00:00:13",
+        "avg_call_duration": "00:00:13",
+        "paid_duration": "00:01:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "0,80",
+        "payout": "0,50",
+        "profit": "0,30",
+        "roi": "60%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-19",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "5",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:47",
+        "avg_call_duration": "00:00:09",
+        "paid_duration": "00:05:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "5,00",
+        "payout": "5,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-18",
+        "partner": "testotraff@mobstra.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "6",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:03:17",
+        "avg_call_duration": "00:00:33",
+        "paid_duration": "00:06:05",
+        "avg_paid_duration": "00:01:01"
+      },
+      "finance": {
+        "revenue": "4,87",
+        "payout": "2,52",
+        "profit": "2,35",
+        "roi": "93%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-18",
+        "partner": "bezludkooo@gmail.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "1",
+        "cta_click_ratio": "1:1"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-18",
+        "partner": "testotraff@mobstra.com",
+        "offer": "CR kate test"
+      },
+      "traffic": {
+        "cnt_click": "19",
+        "cnt_cta": "2",
+        "cta_click_ratio": "1:10"
+      },
+      "conversions": {
+        "cnt_call": "1",
+        "call_cta_ratio": "1:2",
+        "call_click_ratio": "1:19"
+      },
+      "duration": {
+        "call_duration": "00:00:26",
+        "avg_call_duration": "00:00:26",
+        "paid_duration": "00:01:00",
+        "avg_paid_duration": "00:01:00"
+      },
+      "finance": {
+        "revenue": "0,80",
+        "payout": "0,50",
+        "profit": "0,30",
+        "roi": "60%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-18",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:16",
+        "avg_call_duration": "00:00:08",
+        "paid_duration": "00:00:01",
+        "avg_paid_duration": "00:00:01"
+      },
+      "finance": {
+        "revenue": "0,03",
+        "payout": "0,01",
+        "profit": "0,02",
+        "roi": "200%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-17",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-17",
+        "partner": "o.bezlyudko@abcmobile.com",
+        "offer": "CALL STAGE DONt DELETE"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-17",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "22",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:03:16",
+        "avg_call_duration": "00:00:09",
+        "paid_duration": "00:00:38",
+        "avg_paid_duration": "00:00:02"
+      },
+      "finance": {
+        "revenue": "1,41",
+        "payout": "0,32",
+        "profit": "1,09",
+        "roi": "340%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-15",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "77",
+        "cnt_cta": "25",
+        "cta_click_ratio": "1:3"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-15",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "16",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:02:03",
+        "avg_call_duration": "00:00:08",
+        "paid_duration": "00:00:16",
+        "avg_paid_duration": "00:00:01"
+      },
+      "finance": {
+        "revenue": "0,52",
+        "payout": "0,13",
+        "profit": "0,39",
+        "roi": "300%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-12",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "3",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:40",
+        "avg_call_duration": "00:00:13",
+        "paid_duration": "00:00:11",
+        "avg_paid_duration": "00:00:04"
+      },
+      "finance": {
+        "revenue": "0,36",
+        "payout": "0,09",
+        "profit": "0,27",
+        "roi": "300%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-12",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "23",
+        "cnt_cta": "13",
+        "cta_click_ratio": "1:2"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-12",
+        "partner": "testotraff@mobstra.com",
+        "offer": "CR kate test"
+      },
+      "traffic": {
+        "cnt_click": "4",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-11",
+        "partner": "testotraff@mobstra.com",
+        "offer": "CR kate test"
+      },
+      "traffic": {
+        "cnt_click": "14",
+        "cnt_cta": "6",
+        "cta_click_ratio": "1:2"
+      },
+      "conversions": {
+        "cnt_call": "1",
+        "call_cta_ratio": "1:6",
+        "call_click_ratio": "1:14"
+      },
+      "duration": {
+        "call_duration": "00:00:32",
+        "avg_call_duration": "00:00:32",
+        "paid_duration": "00:00:32",
+        "avg_paid_duration": "00:00:32"
+      },
+      "finance": {
+        "revenue": "1,60",
+        "payout": "0,80",
+        "profit": "0,80",
+        "roi": "100%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-11",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "13",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:02:16",
+        "avg_call_duration": "00:00:10",
+        "paid_duration": "00:00:22",
+        "avg_paid_duration": "00:00:02"
+      },
+      "finance": {
+        "revenue": "0,72",
+        "payout": "0,19",
+        "profit": "0,53",
+        "roi": "278%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-11",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "31",
+        "cnt_cta": "3",
+        "cta_click_ratio": "1:10"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-10",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "222",
+        "cnt_cta": "2",
+        "cta_click_ratio": "1:111"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-09",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "344",
+        "cnt_cta": "8",
+        "cta_click_ratio": "1:43"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-06",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-05",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "471",
+        "cnt_cta": "38",
+        "cta_click_ratio": "1:12"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-04",
+        "partner": "ustinov_webmast@gmail.com",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "18",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:04:37",
+        "avg_call_duration": "00:00:15",
+        "paid_duration": "00:02:08",
+        "avg_paid_duration": "00:00:07"
+      },
+      "finance": {
+        "revenue": "4,67",
+        "payout": "5,45",
+        "profit": "-0,78",
+        "roi": "-15%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-04",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "275",
+        "cnt_cta": "13",
+        "cta_click_ratio": "1:21"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-03",
+        "partner": "123123123@gf.fg",
+        "offer": "no data"
+      },
+      "traffic": {
+        "cnt_click": "0",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "2",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:01:43",
+        "avg_call_duration": "00:00:52",
+        "paid_duration": "00:01:35",
+        "avg_paid_duration": "00:00:48"
+      },
+      "finance": {
+        "revenue": "5,93",
+        "payout": "1,03",
+        "profit": "4,90",
+        "roi": "475%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-03",
+        "partner": "testotraff@mobstra.com",
+        "offer": "for dev pixel lendodelov"
+      },
+      "traffic": {
+        "cnt_click": "318",
+        "cnt_cta": "18",
+        "cta_click_ratio": "1:18"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    },
+    {
+      "group_by": {
+        "date": "2024-01-03",
+        "partner": "o.bezlyudko@abcmobile.com",
+        "offer": "CALL STAGE DONt DELETE"
+      },
+      "traffic": {
+        "cnt_click": "1",
+        "cnt_cta": "0",
+        "cta_click_ratio": "1:0"
+      },
+      "conversions": {
+        "cnt_call": "0",
+        "call_cta_ratio": "1:0",
+        "call_click_ratio": "1:0"
+      },
+      "duration": {
+        "call_duration": "00:00:00",
+        "avg_call_duration": "00:00:00",
+        "paid_duration": "00:00:00",
+        "avg_paid_duration": "00:00:00"
+      },
+      "finance": {
+        "revenue": "0,00",
+        "payout": "0,00",
+        "profit": "0,00",
+        "roi": "0%"
+      }
+    }
+  ],
+  "total": {
+    "traffic": {
+      "cnt_click": "4923",
+      "cnt_cta": "427",
+      "cta_click_ratio": "1:12"
+    },
+    "conversions": {
+      "cnt_call": "566",
+      "call_cta_ratio": "1:1",
+      "call_click_ratio": "1:9"
+    },
+    "duration": {
+      "call_duration": "02:59:46",
+      "avg_call_duration": "00:00:19",
+      "paid_duration": "03:37:55",
+      "avg_paid_duration": "00:00:23"
+    },
+    "finance": {
+      "revenue": "291,24",
+      "payout": "155,73",
+      "profit": "135,51",
+      "roi": "87%"
+    }
+  }
+}
